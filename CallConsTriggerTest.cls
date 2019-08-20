@@ -5,5 +5,6 @@ public class CallConsTriggerTest{
         Account acc = new Account();
         acc.Name = 'ddss';
         insert acc;
+        //test
     }
 }
